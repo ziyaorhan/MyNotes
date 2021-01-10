@@ -1,2 +1,2 @@
-# MyNotes
-Burası düzenlenecek... 
+# Notlarım
+kısa bir açıklama ve şablon gelecek
